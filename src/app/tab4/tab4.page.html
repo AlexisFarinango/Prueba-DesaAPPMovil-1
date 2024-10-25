@@ -1,0 +1,40 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Ecuaciónh Cuadratica
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-card-header>
+    <ion-card-title>Tomando en cuenta lo siguiente</ion-card-title>
+    <img alt="Silhouette of mountains"
+      src="https://i.pinimg.com/originals/0e/99/72/0e997242675db79e5df0936f4e45bc73.png" style="width: 200px;" />
+  </ion-card-header>
+  <b>Ingresa los siguientes valores</b>
+  <ion-item>
+    <ion-label position="floating">a</ion-label>
+    <ion-input [(ngModel)]="a" type="number"></ion-input>
+  </ion-item>
+
+  <ion-item>
+    <ion-label position="floating">b</ion-label>
+    <ion-input [(ngModel)]="b" type="number"></ion-input>
+  </ion-item>
+
+  <ion-item>
+    <ion-label position="floating">c</ion-label>
+    <ion-input [(ngModel)]="c" type="number"></ion-input>
+  </ion-item>
+
+  <ion-button expand="full" (click)="calcularRaices()">Enviar</ion-button>
+  <br>
+  <b>Tu resultado es el siguiente:</b>
+  <div *ngIf="resultado">
+    <h2>Resultado:</h2>
+    <p>{{ resultado }}</p>
+  </div>
+
+
+</ion-content>
