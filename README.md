@@ -35,4 +35,4 @@ Esta es una aplicación móvil desarrollada en **Ionic** que presenta varias fun
 - **Angular**: Para la lógica y el manejo de datos en la aplicación.
 
 ## Instalación
-
+- https://drive.google.com/file/d/1AudRaVAJA3FwcQxx5kZ7oXvIwtUL6zfB/view?usp=drivesdk
