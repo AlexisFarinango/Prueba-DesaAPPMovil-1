@@ -35,6 +35,4 @@ Esta es una aplicación móvil desarrollada en **Ionic** que presenta varias fun
 - **Angular**: Para la lógica y el manejo de datos en la aplicación.
 
 ## Instalación
-1. Clona el repositorio:
-   ```bash
-   git clone <enlace-al-repositorio>
+
