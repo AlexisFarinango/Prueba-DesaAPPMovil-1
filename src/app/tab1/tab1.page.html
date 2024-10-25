@@ -228,7 +228,19 @@
   <ion-button expand="block" (click)="presentToast('top')">Mañana</ion-button>
   <ion-button expand="block" (click)="presentToast('middle')">Tarde</ion-button>
   <ion-button expand="block" (click)="presentToast('bottom')">Noche</ion-button>
-
+  
+  <br>
+  <b>Apoyo Motivacional</b>
+  <ion-list>
+    <ion-item>
+      <ion-select placeholder="Select a Fruit">
+        <div slot="label">Recibe apoyo de parte de: <ion-text color="danger">(Required)</ion-text></div>
+        <ion-select-option value="apple">Hermanos</ion-select-option>
+        <ion-select-option value="banana">Padres</ion-select-option>
+        <ion-select-option value="orange">Amigos</ion-select-option>
+      </ion-select>
+    </ion-item>
+  </ion-list>
 
   <br>
   <b>Contactos</b>
