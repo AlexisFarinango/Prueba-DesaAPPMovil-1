@@ -36,4 +36,4 @@ Esta es una aplicación móvil desarrollada en **Ionic** que presenta varias fun
 
 ## APK de Instalación
 - [https://drive.google.com/file/d/1AudRaVAJA3FwcQxx5kZ7oXvIwtUL6zfB/view?usp=drivesdk](https://drive.google.com/file/d/1cfFiOAfnpoOLQuupdu26fUusbTlZeV9s/view?usp=sharing)
-- o de otra forma la ruta es : android\app\build\outputs\apk\debug
+- o de otra forma la ruta donde se encuentra el APK es : src/assets/apk
