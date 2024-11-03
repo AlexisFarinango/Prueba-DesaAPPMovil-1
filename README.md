@@ -43,5 +43,5 @@ Esta es una aplicación móvil desarrollada en **Ionic** que presenta varias fun
 - **Angular**: Para la lógica y el manejo de datos en la aplicación.
 
 ## APK de Instalación
-- https://drive.google.com/file/d/1rnnS9_QMKuE_xaAnIUgwyyKKysaYZtsv/view?usp=sharing
-- o de otra forma la ruta donde se encuentra el APK y el APK Mejorada es : src/assets/apk
+- Ultimo APK: https://drive.google.com/file/d/1rnnS9_QMKuE_xaAnIUgwyyKKysaYZtsv/view?usp=sharing
+- o de otra forma la ruta donde se encuentra el APK y el APK Mejorada es la Rama AppMejorada ruta: src/assets/apk
