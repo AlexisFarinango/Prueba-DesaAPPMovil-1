@@ -33,9 +33,9 @@ Esta es una aplicación móvil desarrollada en **Ionic** que presenta varias fun
 ###Icono Personalizado y Splash Scrren de la Aplicación Movil
 - Mediante librerias de Ionic y la documentación oficial del mismo, se implemento un Icono y un Splash Screen a gustos del Autor.
 - Icono Personalizado del aplicativo:
-![image](https://github.com/user-attachments/assets/ea74c188-78d1-4fb4-858b-6522b6bfbafc)
+- ![image](https://github.com/user-attachments/assets/ea74c188-78d1-4fb4-858b-6522b6bfbafc)
 - Screen Splash del Aplicativo:
-![image](https://github.com/user-attachments/assets/ca86e84c-8760-4131-8127-bdc0a2a3f642)
+- ![image](https://github.com/user-attachments/assets/ca86e84c-8760-4131-8127-bdc0a2a3f642)
 
 
 ## Tecnologías Utilizadas
@@ -44,4 +44,4 @@ Esta es una aplicación móvil desarrollada en **Ionic** que presenta varias fun
 
 ## APK de Instalación
 - https://drive.google.com/file/d/1rnnS9_QMKuE_xaAnIUgwyyKKysaYZtsv/view?usp=sharing
-- o de otra forma la ruta donde se encuentra el APK es : src/assets/apk
+- o de otra forma la ruta donde se encuentra el APK y el APK Mejorada es : src/assets/apk
