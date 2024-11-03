@@ -29,11 +29,18 @@ Esta es una aplicación móvil desarrollada en **Ionic** que presenta varias fun
 - Al pulsar el botón "Enviar", la aplicación calcula las raíces de la ecuación cuadrática utilizando la fórmula correspondiente, mostrando el resultado al usuario.
 - ![{5C4755BD-04F4-44F3-98B6-FA275290F807}](https://github.com/user-attachments/assets/9773aa9c-1a1a-49fd-a9cc-24f949f0e474)
 
+###Icono Personalizado y Splash Scrren de la Aplicación Movil
+- Mediante librerias de Ionic y la documentación oficial del mismo, se implemento un Icono y un Splash Screen a gustos del Autor.
+- Icono Personalizado del aplicativo:
+- ![image](https://github.com/user-attachments/assets/ea74c188-78d1-4fb4-858b-6522b6bfbafc)
+- Screen Splash del Aplicativo:
+- ![image](https://github.com/user-attachments/assets/ca86e84c-8760-4131-8127-bdc0a2a3f642)
+
 
 ## Tecnologías Utilizadas
 - **Ionic Framework**: Para el desarrollo de la interfaz móvil.
 - **Angular**: Para la lógica y el manejo de datos en la aplicación.
 
 ## APK de Instalación
-- [https://drive.google.com/file/d/1AudRaVAJA3FwcQxx5kZ7oXvIwtUL6zfB/view?usp=drivesdk](https://drive.google.com/file/d/1cfFiOAfnpoOLQuupdu26fUusbTlZeV9s/view?usp=sharing)
-- o de otra forma la ruta es : android\app\build\outputs\apk\debug
+- Ultimo APK: https://drive.google.com/file/d/1rnnS9_QMKuE_xaAnIUgwyyKKysaYZtsv/view?usp=sharing
+- o de otra forma la ruta donde se encuentra el APK y el APK Mejorada es la Rama AppMejorada ruta: src/assets/apk
